@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777556044216",
+    "project_id": "eatapp6",
+    "storage_bucket": "eatapp6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777556044216:android:f2fa9a86a499f883ad474d",
+        "android_client_info": {
+          "package_name": "com.example.eatapp6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXJFy5sDt5xwPVdmqN2iZUv80KxYPctE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

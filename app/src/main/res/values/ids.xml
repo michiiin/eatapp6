@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_join_btn" type="id" />
+    <item name="main_login_btn" type="id" />
+    <item name="main_email" type="id" />
+    <item name="main_pwd" type="id" />
+</resources>
